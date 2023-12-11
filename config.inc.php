@@ -36,8 +36,3 @@ $db->addServer(array (
   'engine' => 'MyISAM',
 ), Typecho_Db::READ | Typecho_Db::WRITE);
 Typecho_Db::set($db);
-
-作者：因吹斯汀
-链接：https://juejin.cn/post/7306146705971281958
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
